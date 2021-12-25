@@ -19,3 +19,9 @@ body {
   width: 500px;
   overflow: hidden;
 }
+
+img {
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+}
